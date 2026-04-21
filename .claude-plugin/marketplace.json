@@ -1,0 +1,16 @@
+{
+  "name": "impeccable",
+  "owner": {
+    "name": "camilotorcido",
+    "url": "https://github.com/camilotorcido"
+  },
+  "plugins": [
+    {
+      "name": "impeccable",
+      "source": "./",
+      "description": "Paul Bakaus' Impeccable design skills bundle - audit, critique, polish, animate, typeset, shape, harden y más.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}
